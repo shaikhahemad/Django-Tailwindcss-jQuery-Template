@@ -1,0 +1,1 @@
+# django_tailwindCSS_jQuery_template
