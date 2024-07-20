@@ -1,5 +1,6 @@
 import '../style/main.css'
 import $ from 'jquery';
+import 'jquery-ui/dist/jquery-ui';
 
 window.$ = $;
 window.jQuery = $;
