@@ -1,5 +1,5 @@
 # template :
-### A Django web application integrated with Tailwind CSS and jQuery using Webpack.
+### A Django web application integrated with Tailwind CSS , jQuery and jQuery UI using Webpack.
 
 ## Project Structure
 
