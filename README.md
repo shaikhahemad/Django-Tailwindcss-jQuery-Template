@@ -42,8 +42,8 @@
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/shaikhahemad/django_tailwindCSS_jQuery_template.git
-   cd django_tailwindCSS_jQuery_template
+   git clone https://github.com/shaikhahemad/Django-Tailwindcss-jQuery-Template.git
+   cd Django-Tailwindcss-jQuery-Template
    ```
 
 2. **Set up the virtual environment**:
