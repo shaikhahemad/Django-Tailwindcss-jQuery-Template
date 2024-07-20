@@ -1,0 +1,19 @@
+{% extends 'base.html' %}
+
+{% block title %}Home{% endblock %}
+
+
+{% block main %}
+<div class="container w-screen m-2">
+  <h1 class="text-2xl font-bold">Django with Tailwind CSS and jQuery:</h1>
+  <p>
+    A Django web application integrated with Tailwind CSS and jQuery using Webpack.
+  </p>
+<div class="flex flex-col text-xl m-5 justify-center items-center">
+  <div class="my-2" id="text">
+    This is hide and show by jQuery
+  </div>
+  <button class="bg-sky-400 text-white w-[120px] p-1 my-2" id="btn">Hide/Show</button>
+  </div>
+</div>
+{% endblock %}

@@ -1,0 +1,26 @@
+.
+├── assets
+│   ├── script
+│   │   └── index.js
+│   └── style
+│       └── main.css
+├── manage.py
+├── package.json
+├── postcss.config.js
+├── README.md
+├── src
+│   ├── asgi.py
+│   ├── __init__.py
+│   ├── settings.py
+│   ├── urls.py
+│   └── wsgi.py
+├── static
+│   └── bundle.js
+├── tailwind.config.js
+├── templates
+│   ├── base.html
+│   └── index.html
+├── tree.txt
+└── webpack.config.js
+
+7 directories, 17 files
